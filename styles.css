@@ -1,0 +1,16 @@
+button {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .square.x {
+    color: red;
+  }
+  
+  .square.o {
+    color: blue;
+  }
+
+*{
+  background-image: url();
+}
